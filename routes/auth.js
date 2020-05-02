@@ -7,7 +7,6 @@ router.get("/", (req, res) => {
 
 router.post('/signup', signUp);
 
-
 module.exports = router;
 
 
